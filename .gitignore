@@ -2,3 +2,4 @@ dist
 .cabal-sandbox
 *.config
 Setup.hs
+.DS_Store
